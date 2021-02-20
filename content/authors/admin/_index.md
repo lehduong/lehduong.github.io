@@ -31,7 +31,7 @@ education:
     #- course: MEng in Artificial Intelligence
     #  institution: Massachusetts Institute of Technology
     #  year: 2009
-    - course: BE in Computer Science
+    - course: BEng in Computer Science
       institution: Ho Chi Minh City University of Technology
       year: 2020
 
@@ -70,7 +70,7 @@ email: "duonglh5@vinai.io"
 highlight_name: true
 ---
 
-I'm a resident at VinAI Research based in Ho Chi Minh city, Vietnam under supervision of Dr. Binh-Son Hua. Before that, I pursued my Bachelor degree at Ho Chi Minh City University of Vietnam under supervision of Prof. Nam Thoai.
+I'm a resident at VinAI Research under supervision of [Dr. Binh-Son Hua](https://sonhua.github.io/). Before that, I pursued my Bachelor degree at Ho Chi Minh City University of Vietnam under supervision of Prof. Nam Thoai.
 
 My research interests include 3D Scene Understanding, Visual Reasoning.
 
