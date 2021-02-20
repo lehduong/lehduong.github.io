@@ -6,7 +6,7 @@ title: Duong H. Le
 superuser: true
 
 # Role/position/tagline
-role: Research Resident at VinAI Research
+role: AI Resident
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -70,7 +70,8 @@ email: "duonglh5@vinai.io"
 highlight_name: true
 ---
 
-I'm a resident at VinAI Research under supervision of [Dr. Binh-Son Hua](https://sonhua.github.io/). Before that, I pursued my Bachelor degree at Ho Chi Minh City University of Vietnam under supervision of Prof. Nam Thoai.
+I'm a resident at VinAI Research under supervision of [Dr. Binh-Son Hua](https://sonhua.github.io/). Before that, I pursued my Bachelor degree at Ho Chi Minh City University of Vietnam under supervision of Prof. Nam Thoai. I also had wonderful time working with [Prof. David Hsu](https://www.comp.nus.edu.sg/~dyhsu/) and
+[Prof. Masaki Nakagawa](http://web.tuat.ac.jp/~nakagawa/en/nakagawa.html) during my internships at NUS and TUAT respectively.
 
 My research interests include 3D Scene Understanding, Visual Reasoning.
 
