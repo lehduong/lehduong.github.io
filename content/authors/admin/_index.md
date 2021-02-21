@@ -45,7 +45,7 @@ social:
     link: "mailto:duonglh5@vinai.io"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/i_Kami_
+    link: https://twitter.com/lehduonggg
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: http://scholar.google.com/citations?user=X3-PqocAAAAJ&hl=en
