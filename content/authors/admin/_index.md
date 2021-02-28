@@ -70,7 +70,7 @@ email: "duonglh5@vinai.io"
 highlight_name: true
 ---
 
-I'm a resident at VinAI Research under supervision of [Dr. Binh-Son Hua](https://sonhua.github.io/). Before that, I obtained my bachelor's degree from Ho Chi Minh City University of Technology, working with Prof. Nam Thoai. I also had wonderful time working with [Prof. David Hsu](https://www.comp.nus.edu.sg/~dyhsu/) and
+I'm a resident at VinAI Research under supervision of [Dr. Binh-Son Hua](https://sonhua.github.io/). Before that, I obtained my bachelor's degree from Ho Chi Minh City University of Technology, advised by Prof. Nam Thoai. I also had wonderful time working with [Prof. David Hsu](https://www.comp.nus.edu.sg/~dyhsu/) and
 [Prof. Masaki Nakagawa](http://web.tuat.ac.jp/~nakagawa/en/nakagawa.html) during my internships at NUS and TUAT respectively.
 
 My research interests include 3D Scene Understanding, Visual Reasoning.
