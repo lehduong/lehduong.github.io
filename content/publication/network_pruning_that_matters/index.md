@@ -46,9 +46,9 @@ url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
-url_slides: ""
+url_slides: "https://iclr.cc/virtual/2021/poster/2991"
 url_source: ""
-url_video: ""
+url_video: "https://iclr.cc/virtual/2021/poster/2991"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
