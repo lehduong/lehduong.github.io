@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:duonglh5@vinai.io"
+    link: "mailto:v.duonglh5@vinai.io"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/lehduonggg
@@ -64,7 +64,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "duonglh5@vinai.io"
+email: "v.duonglh5@vinai.io"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

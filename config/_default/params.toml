@@ -88,7 +88,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "duonglh5@vinai.io"
+email = "v.duonglh5@vinai.io"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -113,7 +113,7 @@ email = "duonglh5@vinai.io"
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/i_Kami_"},
   {icon = "facebook", icon_pack = "fab", name = "Facebook", link = "https://facebook.com/igremlin"},
-  {icon = "gmail", icon_pack = "fab", name = "Email", link = "mailto:duonglh5@vinai.io"},
+  {icon = "gmail", icon_pack = "fab", name = "Email", link = "mailto:v.duonglh5@vinai.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 

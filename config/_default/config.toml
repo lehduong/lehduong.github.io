@@ -47,7 +47,7 @@ publishDir = 'docs'
   publication_types = "/publication-type/:slug/"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON", "WebAppManifest", "headers", "redirects"]
+  home = ["HTML", "RSS", "JSON"]
   section = ["HTML", "RSS"]
 
 # Configure the Markdown renderer.
@@ -102,3 +102,10 @@ publishDir = 'docs'
     path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms"
   [[module.imports]]
     path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"
+
+[mediaTypes."application/manifest+json"]
+  suffixes = ["webmanifest"]
+
+[outputFormats.WebAppManifest]
+  mediaType = "application/manifest+json"
+  rel = "manifest"
